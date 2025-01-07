@@ -1,4 +1,4 @@
-# Backend showcase with JsonPlaceholder
+ # Backend showcase with JsonPlaceholder
 
 This is a backend project built with Quarkus and meant as a showcase.
 
